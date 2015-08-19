@@ -1,0 +1,30 @@
+body {
+	color: cornflowerblue; 
+	font-family: Helvetica;
+}
+
+
+#header {
+	color: brown;
+	font-family: times new roman;
+}
+
+
+.red-text {
+	color: red;
+
+}
+
+.big-text {
+	font-size: 72pt;
+	color: green;
+}
+
+p {
+	color: darkblue;
+
+}
+
+dog {
+	color: orange;
+}
